@@ -22,3 +22,9 @@ License:
     Textures, Models and Sounds: CC-BY-SA
 
     See LICENSE.txt for more information.
+
+
+
+Credits:
+
+    Tool textures are based on those from minetest_game.
