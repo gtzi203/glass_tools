@@ -27,4 +27,4 @@ License:
 
 Credits:
 
-    Tool textures are based on those from minetest_game.
+    See more in LICENSE.txt

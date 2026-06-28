@@ -21,3 +21,8 @@ License for Textures, Models and Sounds
 ---------------------------------------
 
 CC-BY-SA 3.0 UNPORTED. Created by gtzi203
+
+Credits
+--------
+
+Tool textures are based on those from minetest_game (version 5.8.0). (licensed under CC BY-SA 3.0)
